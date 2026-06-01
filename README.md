@@ -14,8 +14,8 @@
 
 ## Connect with me
 
-* LinkedIn: linkedin.com/in/thiranjawijenayaka
-* GitHub: github.com/yourusername
+* LinkedIn: www.linkedin.com/in/thiranja-wijenayaka
+* GitHub: github.com/Thiranjawijenayaka
 
 ## Languages and Tools
 
