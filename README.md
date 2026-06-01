@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Thiranja Wijenayaka
 
-<!--
-**Thiranjawijenayaka/Thiranjawijenayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Undergraduate at SLIIT | Aspiring Software Quality Assurance (QA) Engineer
 
-Here are some ideas to get you started:
+🔍 Passionate about software testing, quality assurance, and delivering reliable software products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Software Testing, Test Case Design, JIRA, and QA Best Practices.
+
+🧑‍🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)
+
+💬 Ask me about Java, MySQL, Software Testing, and Web Development
+
+📫 How to reach me: [wijenayakathiranja@gmail.com](mailto:wijenayakathiranja@gmail.com)
+
+## Connect with me
+
+* LinkedIn: linkedin.com/in/thiranjawijenayaka
+* GitHub: github.com/yourusername
+
+## Languages and Tools
+
+* Java
+* Python
+* MySQL
+* HTML
+* CSS
+* JavaScript
+* JIRA
+* Git & GitHub
+* VS Code
+* Figma
+
+## Current Focus
+
+* Manual Testing
+* Bug Reporting & Tracking
+* Test Case Design
+* Software Quality Assurance
+* Agile & Scrum Practices
